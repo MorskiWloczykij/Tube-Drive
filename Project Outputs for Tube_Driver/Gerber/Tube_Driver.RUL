@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\ep18810\Documents\Prywatne\Altium\GIT\Tube_Driver\Tube_Driver.PcbDoc
+RuleKind=Clearance|RuleName=HV|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Voltage|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
