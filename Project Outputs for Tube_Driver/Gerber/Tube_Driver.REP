@@ -2,135 +2,12 @@
 FileName = Tube_Driver.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Tube_Driver.GTL
-
-    Adding Layer      : Top Layer
+Generating : Outline
+      File : Tube_Driver.GM3
 
     Adding Layer      : Outline
 
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Tube_Driver.GBL
-
-    Adding Layer      : Bottom Layer
-
     Adding Layer      : Outline
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D17
-    D31
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Tube_Driver.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Tube_Driver.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Outline
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Tube_Driver.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Outline
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
@@ -153,17 +30,47 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Outline
-      File : Tube_Driver.GM3
+Generating : Bottom Paste
+      File : Tube_Driver.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Outline
 
-    Adding Layer      : Outline
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
     D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Tube_Driver.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -207,14 +114,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Tube_Driver.GBS
+Generating : Top Paste
+      File : Tube_Driver.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
 
     Adding Layer      : Outline
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -222,14 +129,107 @@ Generating : Bottom Solder
 Used DCodes :
     D10
     D17
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Tube_Driver.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Tube_Driver.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D31
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Tube_Driver.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
 *************************************************************
 
 *************************************************************
